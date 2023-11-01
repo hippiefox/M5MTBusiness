@@ -1,0 +1,6 @@
+framework module M5MTBusiness {
+  umbrella header "M5MTBusiness-umbrella.h"
+
+  export *
+  module * { export * }
+}

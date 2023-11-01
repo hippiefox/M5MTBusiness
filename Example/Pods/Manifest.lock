@@ -1,0 +1,16 @@
+PODS:
+  - M5MTBusiness (0.1.0)
+
+DEPENDENCIES:
+  - M5MTBusiness (from `../`)
+
+EXTERNAL SOURCES:
+  M5MTBusiness:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  M5MTBusiness: 958a4aecb0cb3d53f8e041eebd2f3ca5901db5c7
+
+PODFILE CHECKSUM: 84a785e09bc0861a43e33ab46cb9d33b6e493602
+
+COCOAPODS: 1.13.0
